@@ -13,7 +13,8 @@ import org.springframework.stereotype.Service;
 public class UserServiceImpl implements UserService {
 
     @Override
-    public UserRegistrationResponseDto register(UserRegistrationRequestDto request) throws RegistrationException {
+    public UserRegistrationResponseDto register(UserRegistrationRequestDto request)
+            throws RegistrationException {
         return null;
     }
 

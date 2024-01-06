@@ -10,5 +10,4 @@ class MarketplaceApplicationTests {
     void contextLoads() {
     }
 
-
 }
