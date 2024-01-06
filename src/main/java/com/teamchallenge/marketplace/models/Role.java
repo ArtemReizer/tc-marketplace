@@ -12,6 +12,7 @@ public class Role {
     private String id;
     @Field("name")
     private RoleName name;
+
     private enum RoleName {
         ADMIN,
         USER,
